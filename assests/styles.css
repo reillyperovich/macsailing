@@ -2,8 +2,8 @@ body {
   /* hex color */
   background-color: #0056a0;
   
-  Full-page background image 
-  background: im src("sites/macsailing/assests/img/banner_2.jpg") scroll no-repeat;
+  
+  
   background-size: cover;
   font-family: Avenir, Helvetica, sans-serif;
   font-size:16px; 
@@ -29,7 +29,7 @@ h1{
 }
 
 head {
-	background: url("assests/img/banner_1.jpeg") no-repeat center top;
+	background: url("assests/img/banner_1.jpg") no-repeat center top;
 
 }
 
@@ -78,12 +78,14 @@ article {
   float: left;
   width: 65%;
   margin-right: 5%;
+
 }
 
 aside {
   float: right;
   width: 27%;
   margin-right: 3%;
+  background: url("img/laser-sail-1.jpg") scroll no-repeat;
 }
 
 .clearfix:after {
@@ -98,6 +100,7 @@ p {
 	margin-left: 5px;
 
 }
+
 
 
 /*reset*/
@@ -238,7 +241,7 @@ dfn {
 
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0;
 }
 
 /**
