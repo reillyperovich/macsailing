@@ -28,6 +28,11 @@ h1{
 
 }
 
+head {
+	background: url("assests/img/banner_1.jpeg") no-repeat center top;
+
+}
+
 #staff-photo {
 	float:left;
 	display: inline;
