@@ -83,9 +83,10 @@ article {
 
 aside {
   float: right;
-  width: 27%;
+  width: 26%;
   margin-right: 3%;
   background: url("img/laser-sail-1.jpg") scroll no-repeat;
+  border: solid black 3px;
 }
 
 .clearfix:after {
